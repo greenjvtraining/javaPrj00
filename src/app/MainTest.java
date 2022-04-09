@@ -10,6 +10,9 @@ public class MainTest {
 		
 		//spring에서 추가한 내용 - 김지희
 		System.out.println("test 김지희");
+		
+		//git-hub에서 추가한 내용
+		System.out.println("git-hub 김지희");
 	}
 
 }
